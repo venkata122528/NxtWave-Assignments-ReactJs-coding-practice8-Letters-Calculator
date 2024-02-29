@@ -1,0 +1,30 @@
+/* Write your code here. */
+.mainContainer {
+  background-image: linear-gradient(to right, #1d976c, #219a6f, #93f9b9);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cardContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.calculateLettersContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.inputEl {
+  width: 50%;
+  height: 30px;
+}
+
+.image {
+  height: 60vh;
+  width: 40%;
+}
